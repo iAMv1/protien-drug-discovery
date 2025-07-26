@@ -266,10 +266,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@domain.com]
+- **Project Lead**: [Pratham]
+- **Email**: [iam1nahata@gmail.com]
 - **Issues**: [GitHub Issues](https://github.com/yourusername/protein-drug-discovery/issues)
 
 ---
 
-**Built with ❤️ for accelerating drug discovery through AI**
